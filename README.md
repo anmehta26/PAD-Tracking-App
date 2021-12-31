@@ -1,6 +1,7 @@
 # PAD Tracking App
 
 A new Flutter project.
+Access the website here: https://pad-app-9e4b0.web.app/#/
 
 ## Getting Started
 
