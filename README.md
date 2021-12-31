@@ -1,6 +1,6 @@
 # PAD Tracking App
 
-A new Flutter project.
+A new Flutter project. Hosted with Firebase.
 Access the website here: https://pad-app-9e4b0.web.app/#/
 
 ## Getting Started
