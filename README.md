@@ -2,9 +2,10 @@
 
 A new Flutter project. Hosted with Firebase.
 
+Access the website here: https://pad-app-9e4b0.web.app/#/
+
 Watch this video, demonstrating the latest version of this web app: https://www.youtube.com/watch?v=erkpo2nj5q4
 
-Access the website here: https://pad-app-9e4b0.web.app/#/
 
 
 ## Getting Started
